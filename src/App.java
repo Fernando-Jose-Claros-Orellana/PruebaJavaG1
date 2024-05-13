@@ -8,6 +8,9 @@ public class App {
         float pagoXHora = 0;
         float pagoTotal = 0;
 
+        System.out.println("Ingrese las horas trabajadas: ");
+        horasTrabajadas = pedir.nextFloat();
+
         
 
 
